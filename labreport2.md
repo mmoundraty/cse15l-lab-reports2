@@ -7,12 +7,15 @@
 ## Part 2
 
 This is the path to the private key.
+
 ![Image](cse15lreport2ls3.png)
 
 This is the path to the public key.
+
 ![Image](cs15lreport2ls.png)
 
 This is the terminal interaction of logging into ieng6 without a password being asked.
+
 ![Image](cse15lreport2terminal1.png)
 ![Image](cse15lreport2terminal2.png)
 
