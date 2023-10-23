@@ -6,10 +6,10 @@
 
 ## Part 2
 
+![Image](cse15lreport2ls3.png)
+![Image](cs15lreport2ls.png)
 ![Image](cse15lreport2terminal1.png)
 ![Image](cse15lreport2terminal2.png)
-![Image](cse15lreport2ls3.png)
-![Image]cs15lreport2ls.png)
 
 ## Part 3
 
