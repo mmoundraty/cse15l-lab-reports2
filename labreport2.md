@@ -9,7 +9,7 @@
 ![Image](cse15lreport2terminal1.png)
 ![Image](cse15lreport2terminal2.png)
 ![Image](cse15lreport2ls.png)
-![Image](cse15lreport2ls2.png)
+![Image](cse15lreport2ls3.png)
 
 ## Part 3
 
